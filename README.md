@@ -3,5 +3,5 @@
 ## accounts
 ~~~
 jgverges
-jordi-gv
+JORDIGV
 ~~~
