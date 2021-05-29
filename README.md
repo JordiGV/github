@@ -7,6 +7,4 @@ jgverges
 JordiGV
 ~~~
 
-## Github changes
 
-Changes from github 
