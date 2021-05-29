@@ -1,9 +1,10 @@
 # github
 
 ## accounts
+JORDIGV => JordiGV?
 ~~~
 jgverges
-JORDIGV
+JordiGV
 ~~~
 
 ## Github changes
