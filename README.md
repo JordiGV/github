@@ -34,3 +34,9 @@ _cursivas con guión bajo_
 #### Listas desordenadas
 * asterisco
 * otro asterisco
+
+#### IMAGEN
+![alt de Imagen](https://images-na.ssl-images-amazon.com/images/I/81zDBrc6P0L._AC_SY741_.jpg)
+
+#### Link
+[Link para Ir a la imagen](https://images-na.ssl-images-amazon.com/images/I/81zDBrc6P0L._AC_SY741_.jpg)
