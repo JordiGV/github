@@ -40,3 +40,23 @@ _cursivas con guión bajo_
 
 #### Link
 [Link para Ir a la imagen](https://images-na.ssl-images-amazon.com/images/I/81zDBrc6P0L._AC_SY741_.jpg)
+
+#### Tutorial markdown ______ Recursos ______
+[Ir a tutorial](https://www.markdowntutorial.com/)
+
+Markdown de GitHub
+Tutorial de Markdown:
+
+Markdowntutorial.com
+
+
+
+GitHub Markdown sheet
+
+GitHub Markdown Style Sheet
+
+
+
+Emojis de GitHub
+
+Emojis
