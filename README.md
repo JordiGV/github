@@ -9,4 +9,4 @@ JordiGV
 
 ## Github changes
 
-Changes from github 
+Changes made from github 
