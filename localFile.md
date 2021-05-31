@@ -11,3 +11,4 @@ More changes from branch
 
 ---- new text from github
 
+added after change git config
